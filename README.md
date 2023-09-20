@@ -1,5 +1,7 @@
-# Road-Accident-Analysis-By-Using-PowerBI-Dashboard
-![logo](https://github.com/jaisbhavana/Road-Accident-Analysis-By-Using-PowerBI-Dashboard/blob/main/powerbipro1.png)
+# Road-Accident-Analysis-By-Using-PowerBI-Dashboard 
+
+![Logo](https://github.com/jaisbhavana/Road-Accident-Analysis-By-Using-PowerBI-Dashboard/blob/main/powerbipro1.png)
+
 
 
 🎉📊📈 I am thrilled to announce the completion of my very first dashboard using Power BI! It has been an exciting journey of data cleaning, processing, modeling, and creating visually appealing charts and visuals. The dashboard showcases key performance indicators (KPIs) derived from road accident data, providing valuable insights. I'm grateful for this opportunity to dive into data analytics and visualization, and I look forward to further honing my skills in this field. 🚀💡💻
